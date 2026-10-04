@@ -3,9 +3,9 @@ layout: default
 title: Hidden Berkeley
 ---
 
-# Hidden Berkeley
+# Not-So-Secret Berkeley Spots!
 
-A starting guide to Berkeley places and services. Check each resource's official webpage for current access details.
+Are you new to Berkeley and want to get exploring? Here's a list for a new bear to find community, space, and services at Berkeley. You can take a look at the official pages for more information on access details!
 
 <!-- Edit the heading and introduction above. The supplied loop below displays each row of the CSV. -->
 {% for resource in site.data.locations %}
